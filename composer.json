@@ -1,0 +1,12 @@
+{
+    "name": "johnlloyd/cvgenerator",
+    "autoload": {
+        "psr-4": {
+            "Johnlloyd\\Cvgenerator\\": "src/"
+        }
+    },
+    "require": { 
+        "setasign/fpdf": "^1.8", 
+        "setasign/fpdi": "^2.0" 
+    }
+}
