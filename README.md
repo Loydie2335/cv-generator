@@ -1,3 +1,3 @@
 CV Generator
-Develop by John Lloyd Lacadin
+Develop by: John Lloyd Lacadin
 
